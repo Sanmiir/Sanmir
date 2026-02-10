@@ -11,10 +11,6 @@ I have hands-on experience performing real-world penetration tests in corporate 
 - Network reconnaissance and service enumeration
 - Pentest reporting and risk analysis
 
-## Tools
-
-Nmap, Burp Suite, BloodHound, Impacket, CrackMapExec, Metasploit, Gobuster, Amass, SQLmap, Wireshark, Linux, Bash, Python
-
 ## Certifications
 
 - eJPT (in progress)
