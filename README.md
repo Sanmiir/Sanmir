@@ -1,6 +1,6 @@
 # Sanmir Gabriel
 
-Junior Penetration Tester focused on Active Directory and Web Security.
+Penetration Tester focused on Active Directory and Web Security.
 
 I have hands-on experience performing real-world penetration tests in corporate environments, including full attack chains, exploitation, post-exploitation and professional reporting.
 
@@ -18,7 +18,7 @@ I have hands-on experience performing real-world penetration tests in corporate 
 ## Projects
 
 - Argos – Web reconnaissance framework
-- Scan-Hardening – Domain security baseline scanner
+- Web Hardening scan - caramelosec.com
 - Malware detection using Machine Learning (undergraduate thesis)
 
 ## Contact
